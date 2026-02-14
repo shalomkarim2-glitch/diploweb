@@ -1,4 +1,20 @@
+html,body{
+    height: 100%;
+}
 body{
-    background-color: red;
+    url("../image/foto.jpg") no-repeat;
+    background-size: cover;
     font-size: 30px;
 }
+h1
+{text-decoration: overline;}
+.foto img{
+    border-radius:20px;
+    box-shadow: 5px 5px 10px black;
+    width: 300px;
+}
+.titulo{
+    font-family: 'Times New Roman', Times, serif;
+letter-spacing:20px;
+}
+
